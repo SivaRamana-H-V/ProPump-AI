@@ -1,0 +1,6 @@
+{
+  "name": "ProPump AI",
+  "description": "Non-invasive hydraulic power pack health monitoring using clip-on M12 sensor taps and edge regression models to predict pump wear before unplanned line stops.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
